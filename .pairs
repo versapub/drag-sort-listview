@@ -1,0 +1,19 @@
+# .pairs - configuration for 'git pair'
+# place in project or home directory
+pairs:
+  kk: Kris Kelly; kkelly
+  pk: Philip Kuryloski; pkuryloski
+  tc: Terry Chen; tchen
+  ts: Tyler Schultz; tyler
+  ec: Eno Compton; ecompton
+  bb: Brian Butz; bbutz
+  ao: Adriana Olmos; aolmos
+  nm: Nina Mehta; mehta
+  lt: Lenny Turetsky; lenny
+  et: Eric Tsiliacos; etsiliacos
+
+email:
+  prefix: pair
+  domain: pivotallabs.com
+
+
